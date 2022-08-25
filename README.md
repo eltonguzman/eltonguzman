@@ -20,4 +20,4 @@
 </div><br/>
 Developer Front-End Júnior, avante!
 
-![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/eltonguzman/eltonguzman/blob/output/github-contribution-grid-snake.svg)
