@@ -11,6 +11,6 @@
     <img alt="css" align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img alt="javascript" align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div><br/>
-Developer Front-End Júnior, avante!
+Quality Assurance (QA), avante!
 
 ![Snake animation](https://github.com/eltonguzman/eltonguzman/blob/output/github-contribution-grid-snake.svg)
